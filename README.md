@@ -6,7 +6,6 @@
 
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -33,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Live chat application project where people can join the room of there choice.
+Live chat application project where people can join the room of there choice. and share there talks, its a real time built app i used "Moment" library for real time.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -47,6 +46,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [express](https://express.org/)
 * [socket.io](https://socket.io/)
 * [fontawsome](https://fontawsome.com/)
+* [moment](https://www.npmjs.com/package/moment)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
